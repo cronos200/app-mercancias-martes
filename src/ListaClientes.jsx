@@ -4,7 +4,7 @@ function ListadoClientes (){
     return(
         <div className="panel-control">
       <MenuLateral />
-      <section className="panel-control-section">
+      <section className="panel-control-clientes">
         <Card />
         <Card />
         <Card />
